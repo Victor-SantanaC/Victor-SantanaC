@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/406288c8-da96-4ecc-9cbd-5f89d319a15b)
+
 - 👋 Hi, I’m @Victor-SantanaC
 - 👀 I’m interested in Aprender mais sobre tecnelogias, sofwares, hardwares and games
 - 🌱 I’m currently learning Estou aprendendo html, css, javascript e sql
