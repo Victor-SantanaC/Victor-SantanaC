@@ -5,7 +5,7 @@
 - 👀 I’m interested in Aprender mais sobre tecnelogias, sofwares, hardwares and games
 - 🌱 I’m currently learning Estou aprendendo html, css, javascript e sql
 - 💞️ I’m looking to collaborate on Em projetos novos e interesantes 
-- 📫 How to reach me E-mail.
+- 📫 How to reach me  instagram, E-mail e Linkedin
 - 😄 Pronouns: Ele
 - ⚡ Fun fact: Eu sou apaixonado por games, filmes e animes sou um nerd/geek!!!!!
 
